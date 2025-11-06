@@ -11,6 +11,7 @@ This project is a simple Flask web app that performs **face detection** and **fa
 
 ## Project Structure
 
+```bash
 face-recognition-app/
 │
 ├── app.py
@@ -22,6 +23,7 @@ face-recognition-app/
 ├── static/uploads/
 ├── requirements.txt
 └── README.md
+```
 
 ## Installation
 
