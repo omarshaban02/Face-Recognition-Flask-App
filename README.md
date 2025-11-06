@@ -13,15 +13,15 @@ This project is a simple Flask web app that performs **face detection** and **fa
 
 face-recognition-app/
 │
-├── app.py # Flask app entry point
-├── face_recognition.py # Face detection & recognition logic
-├── embeddings.pt # Pre-computed embeddings and labels
+├── app.py
+├── face_recognition.py
+├── embeddings.pt
 ├── templates/
-│ └── upload.html # Simple upload page
-├── static/
-│ └── uploads/ # Uploaded images folder
-├── requirements.txt # Python dependencies
-└── README.md # Project description & usage
+│   ├── upload.html
+│   └── register.html
+├── static/uploads/
+├── requirements.txt
+└── README.md
 
 ## Installation
 
