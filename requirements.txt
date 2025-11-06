@@ -1,0 +1,9 @@
+Flask
+torch
+torchvision
+facenet-pytorch
+opencv-python
+numpy
+Pillow
+matplotlib
+gunicorn
